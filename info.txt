@@ -1,0 +1,7 @@
+
+Se esteiver no Ubuntu vai precisar executar o comando abaixo
+
+sudo apt-get install libmysqlclient-dev python3-dev
+
+
+Se for Windows, e tem o servidor MySQL instalado, as bibliotecas já devem tá instaladas
